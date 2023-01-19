@@ -1,0 +1,6 @@
+/* Write your CSS here */
+.slick-bg {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
